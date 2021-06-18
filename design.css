@@ -1,0 +1,30 @@
+body 
+{
+    background-image: url("https://wallpaperaccess.com/full/635988.png");
+    background-size: cover;
+}
+#player1_name , #player2_name , #button
+{
+	display: inline-block;
+	margin-left: 20px;
+    color :  black;
+    font-family: Comic Sans MS;
+}
+
+.login_div1 , .login_div2
+{
+    background:lavenderblush;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#title 
+{
+ background-color:  lavenderblush ;
+ color: black;
+ font-family: Comic Sans MS;
+} 
+.ff {
+    font-family: Comic Sans MS;
+}
